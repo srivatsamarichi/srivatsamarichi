@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srivatsa Marichi</h1>
+<h1 align="center">Hi there 👋, I'm Srivatsa Marichi</h1>
 <h3 align="center">A passionate DevOps consultant from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivatsamarichi" alt="srivatsamarichi" /> </p>
@@ -15,7 +15,7 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivatsamarichi&show_icons=true" alt="srivatsamarichi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=srivatsamarichi&show_icons=true" alt="srivatsamarichi" />
 
 ---
 
