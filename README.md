@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivatsamarichi" alt="srivatsamarichi" /> </p>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **everything** 🤣
 
 - 💬 Ask me about **Azure DevOps, GitHub and Azure**
 
-- 📫 How to reach me **@Srivatsa91**
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+- 📫 Reach me on twitter **@Srivatsa91**
 
 ---
 
