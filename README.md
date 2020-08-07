@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Srivatsa Marichi
+# Hi there, I'm Tech Warrior - aka Srivatsa Marichi 👋
 
 ### I'm a passionate DevOps consultant from India
 
