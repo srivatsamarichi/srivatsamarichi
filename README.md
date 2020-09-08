@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 💬 Ask me about **Azure DevOps, GitHub and Azure**
+- 💬 Ask me about **Azure DevOps, GitHub, Visual Studio and Azure**
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
