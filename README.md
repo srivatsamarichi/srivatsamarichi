@@ -10,7 +10,7 @@
 
 - 📫 Reach me on twitter **@Srivatsa91**
 
-- ⚡ Fun fact: I love to hike, 
+- ⚡ Fun fact: **Hike more, Worry less**
 
 ### Spotify Playing 🎧
 
