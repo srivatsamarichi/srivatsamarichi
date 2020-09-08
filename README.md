@@ -27,6 +27,8 @@
 
 ---
 
+### Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/srivatsa91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="srivatsa91" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/srivatsamarichi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srivatsamarichi" height="30" width="30" /></a>
