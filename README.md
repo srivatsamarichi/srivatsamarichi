@@ -1,4 +1,4 @@
-# Hi there 👋, I'm  Srivatsa Marichi :metal: :rocket:
+# Hi there 👋 I'm  Srivatsa Marichi :metal: :rocket:
 
 <div align = "center">
 <p float = "left">
