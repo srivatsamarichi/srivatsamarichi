@@ -1,6 +1,6 @@
 # Hi there 👋, I'm  Srivatsa Marichi :metal: :rocket:
 
-<p float = "left">
+<p float = "center">
   <a href="https://octodex.github.com/"> <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width = "320" height = "320" alt = "daft sri"> </a>
   <a href="https://octodex.github.com/"> <img src = "https://octodex.github.com/images/daftpunktocat-guy.gif" width = "320" height = "320" alt = "daft sri"> </a>
 </p>
