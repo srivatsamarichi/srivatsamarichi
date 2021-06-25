@@ -19,10 +19,6 @@
 
 - ⚡ Fun fact: **Hike more, Worry less**
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]()
-
 ## GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srivatsamarichi&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsamarichi&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
