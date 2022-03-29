@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div> 
 
-## I'm a passionate DevOps enthusiast from India 🇮🇳 
+## 💥 I'm a passionate DevOps enthusiast from India 🇮🇳 
 
 - 🌱 I’m currently learning **everything**
 
