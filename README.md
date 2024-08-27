@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Azure DevOps, GitHub, Visual Studio and Azure**
 
-- 🥅 2023 Goals: Contribute more to Open Source projects, Learn AI/ML DevOps
+- 🥅 2024 Goals: Contribute more to Open Source projects, Learn AI/ML DevOps
 
 - 📫 Reach me on twitter **@Srivatsa91**
 
